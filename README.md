@@ -5,6 +5,8 @@ Actually I work at [VAGAS Tecnologia](https://vagas.com.br/), a company based in
 Enthusiastic about new technologies, which allows me to be in constant learning. Self-taught, proactive and always positive. I like to scour the web through solutions but never dispense a good book.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanoel-lopes-64100839/)](https://www.linkedin.com/in/emanoel-lopes-64100839/)
+[![Github](https://img.shields.io/github/followers/emanoellopes?style=social)](https://github.com/emanoellopes/)
+[![Blog Badge](https://img.shields.io/badge/Blog-emanoellopes.me-black)](https://emanoellopes.me/)
 
 [![Emanoel's github stats](https://github-readme-stats.vercel.app/api?username=emanoellopes&count_private=true&show_icons=true&theme=synthwave)](https://github.com/emanoellopes/github-readme-stats)
 
