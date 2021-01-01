@@ -12,4 +12,4 @@ Enthusiastic about new technologies which allow me to be in constant learning. U
 
 ### GitHub stats and top languages
 ![Emanoel's github stats](https://github-readme-stats.vercel.app/api?username=emanoellopes&hide=issues&theme=synthwave&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBastos&layout=compact&theme=synthwave&langs_count=10)](https://github.com/emanoellopes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanoellopes&layout=compact&theme=synthwave&langs_count=10)](https://github.com/emanoellopes/github-readme-stats)
