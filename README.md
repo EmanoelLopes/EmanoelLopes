@@ -1,4 +1,4 @@
-# Hi!
+# Hi, everyone!
 
 I am Emanoel Lopes, Front-End Software Engineer (and most all the time, a problem solver) from Brazil, and I work with web development since 2013 in digital agencies, B2C and B2B plataforms, products and softwares as a service and some jobs as a freelancer programmer.
 
