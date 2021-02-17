@@ -10,7 +10,6 @@ Enthusiastic about new technologies which allow me to be in constant learning. U
 [![Github](https://img.shields.io/github/followers/emanoellopes?style=social)](https://github.com/emanoellopes/)
 [![Blog Badge](https://img.shields.io/badge/Blog-emanoellopes.me-black)](https://emanoellopes.me/)
 
-### GitHub stats and top languages
-![Emanoel's github stats](https://github-readme-stats.vercel.app/api?username=emanoellopes&hide=issues&theme=synthwave&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)
+### Top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanoellopes&layout=compact&theme=synthwave&langs_count=10)](https://github.com/emanoellopes/github-readme-stats)
