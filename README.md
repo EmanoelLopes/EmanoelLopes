@@ -8,7 +8,7 @@ In my spare time, I am an amateur street runner, and I also take time to take ca
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanoel-lopes-64100839/)](https://www.linkedin.com/in/emanoel-lopes-64100839/)
 [![Github](https://img.shields.io/github/followers/emanoellopes?style=social)](https://github.com/emanoellopes/)
-[![Blog Badge](https://img.shields.io/badge/Blog-emanoellopes.me-black)](https://emanoellopes.me/)
+[![Blog Badge](https://img.shields.io/badge/Blog-emanoellopes.me-black)](https://emanoellopes.dev/)
 
 ### Top languages
 
