@@ -1,8 +1,6 @@
 # Hi, everyone!
 
-I am Emanoel Lopes, Front-End Software Engineer (and most all the time, a problem solver) from Brazil, actually working at [Luizalabs](https://github.com/luizalabs). I deal with web development since 2013 and I did a lot of cool stuff all the way since there. 
-
-Enthusiastic about new technologies which allow me to be in constant learning. Usually self-taught, proactive and always positive.
+I am Emanoel Lopes, Senior Front-End Software Engineer (and most all the time, a problem solver) from Brazil, actually working at [Luizalabs](https://github.com/luizalabs). I deal with web development since 2013 and I did a lot of cool stuff all the way since there. 
 
 In my free time, I use to be a street runner, and I also take time to take care of my physical and mental health through fitness activities and personal hobbies. Oh, and I am also the guardian of 5 cats.
 
